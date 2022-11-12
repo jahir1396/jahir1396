@@ -1,0 +1,36 @@
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.deps.json
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.AssemblyReference.cache
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfoInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfo.cs
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.CoreCompileInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\refint\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\Cursos Gral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\ref\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.deps.json
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.AssemblyReference.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfoInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfo.cs
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.CoreCompileInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\refint\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\ref\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.deps.json
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\bin\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.AssemblyReference.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfoInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.AssemblyInfo.cs
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.csproj.CoreCompileInputs.cache
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\refint\Sistema.Proyecto.Core.dll
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\Sistema.Proyecto.Core.pdb
+C:\Users\jahir\OneDrive\Escritorio\CursosGral\Sistema.Proyecto.Net6\src\.dotnet\Sistema.Proyecto\Sistema.Proyecto.Core\obj\Debug\net6.0\ref\Sistema.Proyecto.Core.dll
